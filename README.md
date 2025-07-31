@@ -1,6 +1,6 @@
 # hackathon1
 
-[html,css](https://mohamedmenaisy.github.io/hackathon1/)
+https://mohamedmenaisy.github.io/hackathon1/
 
 # This repository contains a static website built using HTML and CSS.
 # It demonstrates basic front-end web development practices, focusing on clean structure, responsive design, and semantic markup.
